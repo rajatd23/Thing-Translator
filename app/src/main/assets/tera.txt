@@ -1,0 +1,84 @@
+Adaptor
+Airpods
+Bandages
+Bow Tie
+Bulb
+CPU
+Calender
+Ceiling fan
+Cell battery
+Computer Ram
+Cushion
+DVD Disc
+Digital Camera
+Digital Scale
+Diode
+Extension Cords
+Face Mask
+Fan Capacitor
+Floppy Disc
+Fork
+Formal Shirt
+Gas Cylinder
+Jeans
+Memory Card
+Motherboard
+Mugs
+Neck Tie
+Pencil
+Razor
+Relay Circuit
+Scale
+Sim Card
+Socks
+Speaker
+Spectacles
+T-Shirt
+Table fan
+Transistor
+Trimmer
+Trophy
+Tubelight
+Tyres
+Wallet
+Wrist Watch
+air conditioner
+badminton racket
+badminton shuttle
+baseball bat
+bean bag
+belt
+bicycle
+bottle
+box
+chair
+charger
+clock
+comb
+computer keyboard
+computer mouse
+cricket bat
+curtains
+daisy
+dandelion
+dogs
+door
+door mat
+dustbin
+dvd player
+knife
+laptop
+microwave
+pen
+refrigerator
+roses
+scissor
+shoes
+spoon
+sunflowers
+table lamp
+television
+toothbrush
+tulips
+washing machine
+writing pad
